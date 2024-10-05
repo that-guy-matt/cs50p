@@ -1,0 +1,1 @@
+print(input("Input some text: ").replace(' ', '...'))

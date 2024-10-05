@@ -1,0 +1,1 @@
+print(input("Input a string: ").lower())
